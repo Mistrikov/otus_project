@@ -4,7 +4,6 @@ venv/
 htmlcov/
 
 .pytest_cache
-my_notes.txt
 *.sqlite3
 .env
 
