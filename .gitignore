@@ -3,6 +3,7 @@ venv/
 .vscode/
 htmlcov/
 
+.gitignore
 .pytest_cache
 *.sqlite3
 .env
